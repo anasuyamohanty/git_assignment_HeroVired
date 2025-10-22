@@ -59,9 +59,6 @@ Verify the version and add the tracking binary file
 Add the patterns to Git repo
 <img width="940" height="135" alt="image" src="https://github.com/user-attachments/assets/15ebca6b-03d5-429e-9245-2b48473a7ba1" />
 
-Adding and Pushing the Large File to the GitHub Repo
-<img width="940" height="842" alt="image" src="https://github.com/user-attachments/assets/c9eb27c2-0dd7-4bb4-b047-a662faa35ff7" />
-
 
 ## License
 This assignment project has no formal license, however, it is part of Hero Vired Git and GitHub Assignment
