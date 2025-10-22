@@ -1,0 +1,4 @@
+GITHUB repository URL - https://github.com/anasuyamohanty/git_assignment_HeroVired
+
+- Program 1 and 3 have the detailed steps and screenshots attached to README.MD file in main branch
+- Program 2 (lfs) have steps and screenshots attached to README.MD file in the lfs branch
