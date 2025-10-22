@@ -52,6 +52,16 @@ git commit -m "Add large binary file"
 git push origin <branch>
 ```
 On first push of a large file, LFS will upload file contents to the remote server.
+###Screenshots of the program execution in VScode
+Verify the version and add the tracking binary file
+<img width="940" height="355" alt="image" src="https://github.com/user-attachments/assets/3aa376e6-02dd-4200-b24c-a8a5be61da30" />
+
+Add the patterns to Git repo
+<img width="940" height="135" alt="image" src="https://github.com/user-attachments/assets/15ebca6b-03d5-429e-9245-2b48473a7ba1" />
+
+Adding and Pushing the Large File to the GitHub Repo
+<img width="940" height="842" alt="image" src="https://github.com/user-attachments/assets/c9eb27c2-0dd7-4bb4-b047-a662faa35ff7" />
+
 
 ## License
 This assignment project has no formal license, however, it is part of Hero Vired Git and GitHub Assignment
