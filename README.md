@@ -57,7 +57,8 @@ Verify the version and add the tracking binary file
 <img width="940" height="355" alt="image" src="https://github.com/user-attachments/assets/3aa376e6-02dd-4200-b24c-a8a5be61da30" />
 
 Add the patterns to Git repo
-<img width="940" height="135" alt="image" src="https://github.com/user-attachments/assets/15ebca6b-03d5-429e-9245-2b48473a7ba1" />
+<img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/393e3d2d-e8dc-4b7c-94e3-9558cdf90bae" />
+
 
 
 ## License
